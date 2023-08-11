@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "imagescript": "^1.2.16",
+    "koa": "^2.14.2",
+    "undici": "^5.23.0"
+  }
+}
